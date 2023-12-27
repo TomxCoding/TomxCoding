@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TomxCoding
 - 👀 I’m interested in Web scraping, automation and making GUI applications
-- 🌱 I’m currently learning Web scraping (Selenium)
+- 🌱 Projects: Notepad Alternative with Python, Webscraping/Automation Projects
+- 📖 Currently learning Java Script
 - 💞️ I’m looking to collaborate on any projects of interest
 - 📫 How to reach me: tomxcoding@gmail.com
 
